@@ -1,0 +1,8 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(–àïú
+P
+java:S1481".Remove this unused "myStudent" local variable.(œù©âûÿÿÿÿ8Šš”ñ0
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(½‚àö
+]	java:S125""<This block of commented-out lines of code should be removed.(Ã÷å›üÿÿÿÿ8‹š”ñ0
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ãÉ®îüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿ§ò£üÿÿÿÿ

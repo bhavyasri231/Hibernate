@@ -1,0 +1,19 @@
+
+b
+2src/main/java/HibernateDemo/CreateStudentDemo.java,8/8/8803694aa3ea8f2df8f3fd052ccfd7039e42b977
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+_
+/src/main/java/HibernateDemo/PrimaryKeyDemo.java,f/7/f76bc3106a1da6aa882c842a69e49ec6cde31058
+`
+0src/main/java/HibernateDemo/ReadStudentDemo.java,9/a/9af76be87686dfee8e501f9d80a1f34c79fecb18
+a
+1src/main/java/HibernateDemo/QueryStudentDemo.java,7/3/73d7e453f276ae6444bab65e6d833b08f0f40a7a
+b
+2src/main/java/HibernateDemo/UpdateStudentDemo.java,2/d/2d8d8d581ae039d2754d320fd8aeb96806ecc2a0
+b
+2src/main/java/HibernateDemo/DeleteStudentDemo.java,5/0/50c1d396cccee4c2ed273756f5a1d212dd5a227d
+P
+ src/main/java/JDBC/TestJdbc.java,8/7/87ad2177a753005b01bc75ff04d112ff9438280e
+l
+<src/main/java/HibernateDemo/HibernateDemoEntity/Student.java,c/5/c58c26eeb8779734d8bae4a415b63c61d03b8bd0
