@@ -1,0 +1,10 @@
+
+U
+java:S1854":Remove this useless assignment to local variable "myConn".(ùéçÙøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(×Ù•Æøÿÿÿÿ
+F
+java:S1481"+Remove this unused "myConn" local variable.(ùéçÙøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÃ¹úýÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú‚®Šùÿÿÿÿ
+c
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(â»²Úýÿÿÿÿ
