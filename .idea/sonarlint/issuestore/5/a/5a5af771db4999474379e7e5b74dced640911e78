@@ -1,0 +1,6 @@
+
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ËòŞ×üÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ãÉ®îüÿÿÿÿ
+Y
+java:S1128"<Remove this unused import 'org.hibernate.cfg.Configuration'.(ö¬ä8³õÎ‚0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿ§ò£üÿÿÿÿ
